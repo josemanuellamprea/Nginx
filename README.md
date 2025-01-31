@@ -1,7 +1,7 @@
 # <h1 align="center"> REPOSITORIO NGINX </h1>
 <br> 
 
-**En este repositorio encontraras infromación general sobre nginx**
+**En este repositorio encontraras infromación de carácter general sobre nginx**
 
 <img src="https://github.com/josemanuellamprea/Nginx/blob/main/img/nginx.png?raw=true"/>
 
