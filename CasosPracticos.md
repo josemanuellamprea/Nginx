@@ -119,5 +119,29 @@ Vamos a restringir Web1.org de tal forma que solo puedan acceder a la web usuari
 ![Verificar](./img/usuario1.png)
 ![Entrada](./img/acceso.png)
 
+### 8) AUTENTICACIÓN, AUTORIZACIÓN Y CONTROL DE ACCESO
+La web1 contiene un directorio creado llamado `privada` donde la red externa pide autorización y desde la red interna no.
+
+- Debemos volver a modificar el archivo `sites-available`
+<br>
+
+![Permitir](./img/permitiracceso.png)
+
+### 9) SEGURIDAD
+Configuremos `web1` para que el acceso sea seguro, para ello debemos crear una `key` privada mediante el siguiente comando
+
+>openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/selfigned.key -out /etc/ssl/certs/selfsigned.crt
+<br>
+
+![Key1](./img/key1.png)
+![Key2](./img/key2.png)
+
+- Para acabar debemos volver a modificar el archivo `sites-available`
+<br>
+
+![Ultima](./img/ultima.png)
+
+
+
 
 
