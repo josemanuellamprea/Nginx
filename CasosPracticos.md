@@ -101,7 +101,7 @@ Mientras que la `web1` puede acceder por la red externa como por la interna, la 
 - Comprobemos ahora la red
 <br>
 
-![Comprobar](./img/mozillaweb1.png)
+![Comprobar](./img/mozillaweb1.png) 
 ![Comprobar](./img/comprobar.png)
 
 ### 7) AUTENTICACIÓN, AUTORIZACIÓN Y CONTROL DE ACCESO
