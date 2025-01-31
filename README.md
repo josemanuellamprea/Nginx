@@ -11,7 +11,7 @@
 ## **ÍNDICE** 
 
 [![Introducción](https://img.shields.io/badge/Introduccion-red?style=for-the-badge&color=%230fc830)](./Introducción.md)
-[![Comparativa](https://img.shields.io/badge/Introduccion-red?style=for-the-badge&color=%230fc830)](./Comparativa.md)
+[![Static Badge](https://img.shields.io/badge/Comparativa-red?style=for-the-badge&color=%230fc830)](./Comparativa.md)
 [![Esquema de Red](https://img.shields.io/badge/Esquema%20de%20Red-red?style=for-the-badge&color=%230fc830)](./EsquemaRed.md)
 [![Instalación](https://img.shields.io/badge/Instalacion-red?style=for-the-badge&color=%230fc830)](./Instalación.md)
 [![Casos Practicos](https://img.shields.io/badge/Casos%20Practicos-red?style=for-the-badge&color=%230fc830)](CasosPracticos.md)
