@@ -136,11 +136,12 @@ Configuremos `web1` para que el acceso sea seguro, para ello debemos crear una `
 ![Key1](./img/key1.png)
 ![Key2](./img/key2.png)
 
-- Para acabar debemos volver a modificar el archivo `sites-available`
+- Para acabar el ejercicio debemos volver a modificar el archivo `sites-available`
 <br>
 
 ![Ultima](./img/ultima.png)
 
+**Aquí concluye la tarea propuesta.**
 
 
 
