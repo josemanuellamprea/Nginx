@@ -3,7 +3,7 @@
 <BR>
 
 <p align="center">
-  <img src="./img/instalacion_nginx.png" alt="Instalación Nginx" width="600">
+  <img src="./img/instalacion_nginx.png" alt="Instalación Nginx" width="750">
 </p>
 <BR>
 <BR>
