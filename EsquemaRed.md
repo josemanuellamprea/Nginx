@@ -2,7 +2,7 @@
 <BR>
 <BR>
 <p align="center">
-  <img src="./img/red.png" alt="Red" width="700">
+  <img src="./img/red.png" alt="Red" width="850">
 </p>
 
 ## DESCRIPCIÓN DEL ESQUEMA  
