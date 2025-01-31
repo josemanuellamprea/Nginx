@@ -16,7 +16,9 @@ Usaremos el comando
 <br>
 >***sudo apt install nginx***
 
-![Nginx](./img/instalcionnginx.png)
+<p align="center">
+  <img src="./img/instalcionnginx.png" alt="Instalación Nginx" width="600">
+</p>
 
 ## Verificación del Servicio.
 **Mediante el siguiente comando veremos si nuestro servicio nginx esta activo.**
@@ -26,5 +28,8 @@ Usaremos el comando
 <br>
 >***systemctl status nginx***
 
-![Servicio](./img/servicionginx.png)
+<p align="center">
+  <img src="./img/servicionginx.png" alt="Instalación Nginx" width="600">
+</p>
+
 
