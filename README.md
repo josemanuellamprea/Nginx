@@ -1,9 +1,15 @@
 # <h1 align="center"> REPOSITORIO NGINX </h1>
 <br> 
+<p align="center">
+  <strong>En este repositorio encontrarás información de carácter general sobre nginx</strong>
+</p>
 
-**En este repositorio encontraras infromación de carácter general sobre nginx**
 
-<img src="https://github.com/josemanuellamprea/Nginx/blob/main/img/nginx.png?raw=true"/>
+
+
+<p align="center">
+  <img src="./img/nginx.png" alt="Red" width="700">
+</p>
 
 <br> 
 
