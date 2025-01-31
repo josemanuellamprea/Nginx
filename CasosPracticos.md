@@ -53,5 +53,71 @@ Crearemos dos sitios webs llamados `web1` y `web2`
 
 ![Permisos](./img/permisos.png)
 
+- Crear `index.html` de `web1` y `web2`
+<br>
+
+![Index](./img/indexweb1.png)
+![Index](./img/indexweb2.png)
+
+- Creación de los `sites-available` para cada web
+<br>
+
+![Sites](./img/availableweb1.png)
+![Sites](./img/availableweb2.png)
+
+- Configuración del archivo hosts para las webs
+<br>
+
+![hosts](./img/hosts.png)
+
+- Verificación de entrada en las webs
+<br>
+
+![Mozilla](./img/mozillaweb1.png)
+![Mozilla](./img/mozillaweb2.png)
+
+### 6) AUTENTICACIÓN, AUTORIZACIÓN Y CONTROL DE ACCESO
+Mientras que la `web1` puede acceder por la red externa como por la interna, la `web2` solo puede por la interna, arreglemos esto con unos sencillos pasos
+
+- Modificar los `sites-available` de cada web
+<br>
+
+![Sites2](./img/modificaravailableweb1.png)
+![Sites2](./img/modificaravailableweb2.png)
+<br>
+
+- Modificar el archivo `hosts` con las ips de ambas web
+<br>
+
+![MHosts](./img/modificarhosts.png)
+
+- Comprobemos la red interna usando el comando
+>curl
+<br>
+
+![Curl](./img/curlweb1.png)
+![Curl](./img/curlweb2.png)
+
+- Comprobemos ahora la red
+<br>
+
+![Comprobar](./img/mozillaweb1.png)
+![Comprobar](./img/comprobar.png)
+
+### 7) AUTENTICACIÓN, AUTORIZACIÓN Y CONTROL DE ACCESO
+Vamos a restringir Web1.org de tal forma que solo puedan acceder a la web usuarios con su contraseña
+
+- Creamos el `usuario1` con su respectiva contraseña para poder entrar en la `web1`
+- Modificaremos el archivo `sites-available`
+<br>
+
+![Privado](./img/privadoavailableweb1.png)
+
+- Verificamos que web1 ahora es privado y solo podemos acceder a el mediante el `usuario1` que hemos creado antes y su contraseña
+<br>
+
+![Verificar](./img/usuario1.png)
+![Entrada](./img/acceso.png)
+
 
 
