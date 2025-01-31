@@ -6,7 +6,6 @@
 <img src="https://github.com/josemanuellamprea/Nginx/blob/main/img/nginx.png?raw=true"/>
 
 <br> 
-<br> 
 
 ## **ÍNDICE** 
 
