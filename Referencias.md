@@ -1,7 +1,7 @@
 <h1 align="center"> REFERENCIAS </h1>  
 <BR>
 <BR>
-En estos links encontraras infromación sobre  nginx
+En estos links encontraras infromación sobre  nginx que se han utilizado para agilizar esta actividad.
 <BR>
 <BR>
 
