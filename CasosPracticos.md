@@ -95,7 +95,7 @@ Mientras que la `web1` puede acceder por la red externa como por la interna, la 
 >curl
 <br>
 
-![Curl](./img/curlweb1.png)
+![Curl](./img/curlweb1.png)  
 ![Curl](./img/curlweb2.png)
 
 - Comprobemos ahora la red
